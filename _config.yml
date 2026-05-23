@@ -1,3 +1,1257 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avinash Jagdale | Real Estate Strategist & Visionary Leader | JPrime Group MD</title>
+    <meta name="description" content="Avinash Jagdale - Navi Mumbai Real Estate Leader: Delivering 1500+ homes, 300+ MW solar energy, and premium developments across Maharashtra, India. JPrime Group MD specializing in institutional-grade real estate, renewable energy, and sustainable infrastructure growth.">
+    <meta name="keywords" content="Avinash Jagdale, Dr. Avinash Jagdale, JPrime Group, JPrime Buildcon, JPrime Solar Energy, JPrime Hospitality, Global Agro Harvest, Square Land, Managing Director, Real estate strategist, Real estate visionary, Real estate developer Navi Mumbai, Strategic land acquisition, Land trading, Renewable energy solutions, Solar energy, 500+ MW capacity, Solar farm development, Boutique hotels, Premium hospitality, Sustainable farming, Agro business, Institutional-grade development, Diversified conglomerate, 1500+ homes delivered, 300+ MW solar, 17+ years experience, Ph.D. Real Estate Management, Navi Mumbai, Maharashtra, India, CBD Belapur, Panvel development, Panvel-Karjat corridor, Panvel industrial hub, JNPA port connectivity, Navi Mumbai airport, Multi-modal transportation, Infrastructure transformation, Urban development, Industrial corridors, Transit-oriented development, Investment opportunities, Asset-backed security, ESG focused, Portfolio management, Farmer empowerment, Food security, Environmental preservation, Sustainability, Eco-friendly development, Real estate value appreciation, Investor trust, Operational discipline, Land scientist, Feasibility-first model, High-growth corridors, Logistics hub, Quality housing, Budget-friendly housing, Premium residential, Commercial real estate, Mixed-use development, Luxury resorts, Event management, Convention centers, Green energy consulting, Solar leasing, Supply chain management, Community impact, Rural development, Stakeholder value, Capital allocation, Risk management, Integrity & innovation, Pushpak Nagar, Sector 15 CBD Belapur, 600+ homes delivered, 100% client satisfaction, 12+ ongoing projects, 200+ acres solar farm, 100+ MW capacity installed, Farmer income security, Inclusive growth, Hospitality management, Luxury experience, Service excellence, Eco-tourism, Sustainable practices, Innovation in farming, Agro-product development, Agricultural land development, Modern practices, Technology integration, Boutique resort development, Event convention management, Residential property investment, Commercial property advisory, Real estate consulting services, Land procurement, Investment structuring, Green consulting, Portfolio diversification, Multi-sector investment, Resilient growth, Asset stewardship, Long-term value creation, Stakeholder management, Transparency in development, Timeline integrity, Resource optimization, Architectural excellence, Project execution, Feasibility analysis, Risk assessment, Multi-layered evaluation, Experienced leadership, Infrastructure pioneer, Development vision, National contribution, Environmental preservation, Future generations, Eco-conscious development, Clean energy transition, Renewable energy leader, Sustainability champion, Community engagement, Local business support, Economic opportunity creation, Skill development, Inclusive business model, Social responsibility, Integrated capital strategy, Cross-sector synergy, Unified ecosystem, Exponential scale, Strategic positioning, Market leadership, Industry innovation, Best practices, Institutional partners, Global investors, Transparent operations, Professional standards, Certified operations, ISO compliance, Quality assurance, Customer satisfaction, Client experience, Relationship management, Trust building, Reliable partner, Proven track record, Results-oriented, Performance metrics, Growth trajectory, Market presence, Competitive advantage, Differentiation strategy.">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Avinash Jagdale | MD - JPrime Group of Companies">
+    <meta property="og:description" content="Avinash Jagdale is a leading real estate strategist, investor, and Managing Director of JPrime Buildcon, delivering premium developments, strategic investments, and future-focused urban growth opportunities across Maharashtra.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="vid/aj/aj.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Avinash Jagdale | MD - JPrime Group of Companies">
+    <meta name="twitter:description" content="Avinash Jagdale is a leading real estate strategist, investor, and Managing Director of JPrime Buildcon, delivering premium developments, strategic investments, and future-focused urban growth opportunities across Maharashtra.">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CS1PZ0C5FT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CS1PZ0C5FT');
+</script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Avinash Jagdale",
+      "jobTitle": "Managing Director",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "JPrime Group of Companies"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/md-avinash-jagdale-/",
+        "https://www.instagram.com/avinashjagdale_/",
+        "https://medium.com/@avinashjagdale"
+      ]
+    }
+    </script>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;700;800&family=Playfair+Display:ital,wght@1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        :root { --gold: #C5A02B; --dark: #050505; --card: #111111; }
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: var(--dark); color: #E5E7EB; scroll-behavior: smooth; }
+        .serif-italic { font-family: 'Playfair Display', serif; font-style: italic; }
+        .gold-gradient { background: linear-gradient(135deg, #C5A02B, #EDDF95); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .hero-stats { border-left: 1px solid rgba(197, 160, 43, 0.3); }
+        .img-mask { clip-path: polygon(0 0, 100% 0, 100% 90%, 90% 100%, 0 100%); }
+        .bento-card { background: var(--card); border: 1px solid rgba(255,255,255,0.05); transition: 0.3s; }
+        .bento-card:hover { border-color: var(--gold); transform: translateY(-5px); }
+    </style>
+</head>
+<body class="antialiased">
+
+    <nav class="fixed w-full z-50 bg-black/90 backdrop-blur-md border-b border-white/5 px-6 py-4">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <div class="font-extrabold tracking-widest text-lg">AVINASH <span class="text-gold" style="color:#C5A02B">JAGDALE</span></div>
+            <div class="hidden lg:flex gap-8 text-[10px] font-bold uppercase tracking-[0.3em] items-center">
+                <a href="#divisions" class="hover:text-gold transition">The Matrix</a>
+                <a href="https://medium.com/@avinashjagdale" target="_blank" class="flex items-center gap-2 hover:text-gold transition"><i class="fab fa-medium"></i>Medium</a>
+                <a href="https://www.instagram.com/avinashjagdale_/" target="_blank" class="flex items-center gap-2 hover:text-gold transition"><i class="fab fa-instagram"></i>Instagram</a>
+                <a href="https://www.linkedin.com/in/md-avinash-jagdale-/" target="_blank" class="flex items-center gap-2 hover:text-gold transition"><i class="fab fa-linkedin"></i>LinkedIn</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="min-h-screen pt-32 pb-20 px-6 relative overflow-hidden">
+        <div class="max-w-7xl mx-auto grid lg:grid-cols-12 gap-12 items-start">
+            
+            <div class="lg:col-span-7 space-y-10">
+                <div class="space-y-4">
+                    <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px]" style="color:#C5A02B">Managing Director | JPrime Group of Companies</h4>
+                    <h1 class="text-6xl md:text-7xl font-extrabold leading-[0.9] tracking-tighter text-white uppercase">
+                        Building Dreams. <br><span class="serif-italic font-light gold-gradient">Powering Progress.</span>
+                    </h1>
+                </div>
+
+                <div class="py-8 border-y border-white/10">
+                    <p class="text-gray-400 text-lg leading-relaxed max-w-2xl">
+                        A visionary leader transforming India's infrastructure through a diversified conglomerate across <span class="text-white font-semibold">Real Estate, Renewable Energy, Hospitality, Land Trading, and Agro.</span>
+                    </p>
+                </div>
+
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+                    <div class="hero-stats pl-4">
+                        <span class="block text-4xl font-bold text-white">1500+</span>
+                        <span class="text-[9px] uppercase tracking-widest text-gray-500">Homes Delivered</span>
+                    </div>
+                    <div class="hero-stats pl-4">
+                        <span class="block text-4xl font-bold text-white">300+ MW</span>
+                        <span class="text-[9px] uppercase tracking-widest text-gray-500">Solar Capacity</span>
+                    </div>
+                    <div class="hero-stats pl-4">
+                        <span class="block text-4xl font-bold text-white">12+</span>
+                        <span class="text-[9px] uppercase tracking-widest text-gray-500">Ongoing Projects</span>
+                    </div>
+                    <div class="hero-stats pl-4">
+                        <span class="block text-4xl font-bold text-white">100%</span>
+                        <span class="text-[9px] uppercase tracking-widest text-gray-500">Client Satisfaction</span>
+                    </div>
+                </div>
+
+                <div class="flex flex-wrap gap-4 pt-4">
+                    <span class="bg-white/5 border border-white/10 px-4 py-1.5 text-[10px] uppercase font-bold tracking-widest">Real Estate</span>
+                    <span class="bg-white/5 border border-white/10 px-4 py-1.5 text-[10px] uppercase font-bold tracking-widest">Solar Energy</span>
+                    <span class="bg-white/5 border border-white/10 px-4 py-1.5 text-[10px] uppercase font-bold tracking-widest">Hospitality</span>
+                    <span class="bg-white/5 border border-white/10 px-4 py-1.5 text-[10px] uppercase font-bold tracking-widest">Agro Business</span>
+                </div>
+            </div>
+
+            <div class="lg:col-span-5 relative">
+                <div class="absolute -inset-4 border border-gold/20 translate-x-4 translate-y-4 rounded-xl -z-10" style="border-color: rgba(197, 160, 43, 0.2)"></div>
+                <div class="bg-zinc-900 img-mask overflow-hidden border border-white/10 shadow-2xl">
+                    <img src="vid/aj/aj.png" alt="Avinash Jagdale" class="w-full h-[600px] object-cover grayscale hover:grayscale-0 transition duration-1000">
+                    
+                    <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/80 to-transparent p-10">
+                        <h3 class="text-2xl font-bold text-white">Avinash Jagdale</h3>
+                        <p class="text-[10px] text-gold font-bold uppercase tracking-[0.3em] mt-1" style="color:#C5A02B">Navi Mumbai, Maharashtra, India</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <section id="divisions" class="py-24 px-6 bg-zinc-950">
+        <div class="max-w-7xl mx-auto">
+            <div class="mb-16">
+                <h2 class="text-xs font-bold text-gold uppercase tracking-[0.5em] mb-4" style="color:#C5A02B">Business Ecosystem</h2>
+                <h3 class="text-4xl font-bold uppercase tracking-tight">The JPrime <span class="serif-italic">Matrix</span></h3>
+            </div>
+
+            
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="bento-card p-10">
+                    <div class="text-gold text-3xl mb-6"><i class="fas fa-city"></i></div>
+                    <h4 class="font-bold text-xl mb-4">JPrime Buildcon</h4>
+                    <p class="text-sm text-gray-500 mb-6">Navi Mumbai's leading developer. 12+ ongoing projects in Pushpak Nagar. Expertise in budget-friendly, high-quality housing.</p>
+                    <div class="text-[10px] font-bold text-gray-400 uppercase tracking-widest">Homes Delivered: 600+</div>
+                </div>
+
+                <div class="bento-card p-10 border-gold/30">
+                    <div class="text-gold text-3xl mb-6"><i class="fas fa-solar-panel"></i></div>
+                    <h4 class="font-bold text-xl mb-4">JPrime Solar Energy</h4>
+                    <p class="text-sm text-gray-500 mb-6">Developing 100+ MW capacity across 200+ acres. Strategic land leasing and renewable infrastructure management.</p>
+                    <div class="text-[10px] font-bold text-gray-400 uppercase tracking-widest">Target: 500+ MW by 2028</div>
+                </div>
+
+                <div class="bento-card p-10">
+                    <div class="text-gold text-3xl mb-6"><i class="fas fa-concierge-bell"></i></div>
+                    <h4 class="font-bold text-xl mb-4">Hospitality</h4>
+                    <p class="text-sm text-gray-500 mb-6">Developing boutique hotels, resorts, and premium event conventions with modern amenities.</p>
+                </div>
+
+                <div class="bento-card p-10">
+                    <div class="text-gold text-3xl mb-6"><i class="fas fa-chart-area"></i></div>
+                    <h4 class="font-bold text-xl mb-4">Square Land</h4>
+                    <p class="text-sm text-gray-500 mb-6">Specialized real estate advisory and land acquisition for high-yield investor growth.</p>
+                </div>
+
+                <div class="bento-card p-10">
+                    <div class="text-gold text-3xl mb-6"><i class="fas fa-seedling"></i></div>
+                    <h4 class="font-bold text-xl mb-4">Global Agro Harvest</h4>
+                    <p class="text-sm text-gray-500 mb-6">Innovation in sustainable farming, agro-product development, and rural empowerment.</p>
+                </div>
+
+                <div class="bento-card p-10 bg-white/5 border-none flex flex-col justify-center">
+                    <h4 class="font-bold text-xl mb-4 gold-gradient">Investor Portal</h4>
+                    <p class="text-xs text-gray-400 mb-6 uppercase tracking-widest">Inquiries for Partnerships & Collaborations</p>
+                    <a href="mailto:info@jprimebuildconllp.com" class="text-white border border-white/20 px-6 py-2 text-center text-[10px] font-bold uppercase tracking-[0.3em] hover:bg-white hover:text-black transition">Inquire Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about-extended" class="py-32 px-6 bg-white overflow-hidden">
+    <div class="max-w-7xl mx-auto">
+        
+        <div class="grid lg:grid-cols-12 gap-16 items-center mb-24">
+            <div class="lg:col-span-5 relative order-2 lg:order-1">
+                <div class="reveal relative">
+                    <div class="absolute -top-10 -left-10 text-[120px] font-black text-gold/5 pointer-events-none" style="color: rgba(197, 160, 43, 0.05)">17+</div>
+                    <div class="rounded-3xl overflow-hidden shadow-[0_50px_100px_-20px_rgba(0,0,0,0.15)] aspect-[4/5]">
+                        <img src="vid/aj/avinash_jagdale.jpeg" alt="Dr. Avinash Jagdale" class="w-full h-full object-cover">
+                    </div>
+                    <div class="absolute -bottom-6 -right-6 bg-zinc-950 p-8 rounded-2xl border border-gold/20 shadow-2xl" style="border-color: rgba(197, 160, 43, 0.2)">
+                        <i class="fas fa-graduation-cap text-gold mb-3 text-2xl" style="color:#C5A02B"></i>
+                        <h6 class="text-white text-[10px] font-bold uppercase tracking-widest leading-tight">Frankford International University</h6>
+                        <p class="text-gray-400 text-[9px] mt-1">Ph.D. in Real Estate Management</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg:col-span-7 order-1 lg:order-2">
+                <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Leadership Narrative</h4>
+                <h2 class="text-4xl md:text-6xl font-extrabold tracking-tighter uppercase text-black mb-8 leading-[0.9]">
+                    Engineering <br/><span class="serif-italic italic" style="color:#C5A02B">Legacy.</span>
+                </h2>
+                <div class="space-y-6 text-gray-600 text-lg leading-relaxed">
+                    <p>
+                        As the Managing Director of <span class="text-black font-bold">JPrime Buildcon</span>, Dr. Avinash Jagdale operates at the intersection of academic precision and industrial pragmatism. His 17-year journey is not merely a timeline of projects, but a masterclass in <strong>Strategic Land Acquisition</strong> and institutional-grade development.
+                    </p>
+                    <p>
+                        Dr. Jagdale specializes in the complex lifecycle of real estate—navigating the delicate balance between high-growth land identification and disciplined project execution. His philosophy centers on the "Feasibility-First" model, ensuring every acre acquired translates into a sustainable, high-yield asset for global investors.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-12 py-20 border-t border-gray-100">
+            <div class="space-y-4">
+                <div class="text-gold text-2xl font-serif italic" style="color:#C5A02B">01.</div>
+                <h5 class="text-black font-bold uppercase tracking-widest text-xs">The Land Scientist</h5>
+                <p class="text-gray-500 text-sm leading-relaxed">Expertise in unlocking latent value through rigorous feasibility analysis and multi-layered risk assessment, ensuring the foundation of every project is economically sound.</p>
+            </div>
+            <div class="space-y-4">
+                <div class="text-gold text-2xl font-serif italic" style="color:#C5A02B">02.</div>
+                <h5 class="text-black font-bold uppercase tracking-widest text-xs">Operational Discipline</h5>
+                <h5 class="text-black font-bold uppercase tracking-widest text-xs"></h5>
+                <p class="text-gray-500 text-sm leading-relaxed">Leading projects from the blueprint to the final handover with a focus on timeline integrity, resource optimization, and architectural excellence.</p>
+            </div>
+            <div class="space-y-4">
+                <div class="text-gold text-2xl font-serif italic" style="color:#C5A02B">03.</div>
+                <h5 class="text-black font-bold uppercase tracking-widest text-xs">Investor Trust</h5>
+                <p class="text-gray-500 text-sm leading-relaxed">Structuring high-performing assets that cater to the sophisticated needs of modern stakeholders, focusing on long-term appreciation and community impact.</p>
+            </div>
+        </div>
+
+        <div class="bg-zinc-950 rounded-[2.5rem] p-10 md:p-16 flex flex-wrap justify-between items-center gap-12">
+            <div class="text-center md:text-left">
+                <span class="block text-4xl md:text-5xl font-extrabold text-white tracking-tighter">17+</span>
+                <span class="text-gold text-[10px] font-bold uppercase tracking-widest" style="color:#C5A02B">Years Experience</span>
+            </div>
+            <div class="w-px h-12 bg-white/10 hidden md:block"></div>
+            <div class="text-center md:text-left">
+                <span class="block text-4xl md:text-5xl font-extrabold text-white tracking-tighter">Ph.D.</span>
+                <span class="text-gold text-[10px] font-bold uppercase tracking-widest" style="color:#C5A02B">Real Estate Management</span>
+            </div>
+            <div class="w-px h-12 bg-white/10 hidden md:block"></div>
+            <div class="text-center md:text-left">
+                <span class="block text-4xl md:text-5xl font-extrabold text-white tracking-tighter">MD</span>
+                <span class="text-gold text-[10px] font-bold uppercase tracking-widest" style="color:#C5A02B">JPrime Buildcon</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <section class="py-32 bg-white text-black px-6">
+        <div class="max-w-7xl mx-auto grid lg:grid-cols-2 gap-20">
+            <div>
+                <h3 class="text-xs font-bold tracking-[0.4em] uppercase text-gray-400 mb-8">Leadership Philosophy</h3>
+                <h2 class="text-5xl font-extrabold tracking-tighter leading-tight mb-12">GUIDED BY <br><span class="serif-italic gold-gradient">Integrity & Innovation.</span></h2>
+                <div class="grid grid-cols-2 gap-x-12 gap-y-10">
+                    <div class="space-y-2">
+                        <span class="font-bold uppercase text-[10px] tracking-widest border-b-2 border-gold">Sustainability</span>
+                        <p class="text-sm text-gray-600">Building eco-friendly infrastructure for future generations.</p>
+                    </div>
+                    <div class="space-y-2">
+                        <span class="font-bold uppercase text-[10px] tracking-widest border-b-2 border-gold">Quality</span>
+                        <p class="text-sm text-gray-600">Uncompromising standards in every square foot delivered.</p>
+                    </div>
+                    <div class="space-y-2">
+                        <span class="font-bold uppercase text-[10px] tracking-widest border-b-2 border-gold">Excellence</span>
+                        <p class="text-sm text-gray-600">Leveraging modern practices and technology.</p>
+                    </div>
+                    <div class="space-y-2">
+                        <span class="font-bold uppercase text-[10px] tracking-widest border-b-2 border-gold">Empowerment</span>
+                        <p class="text-sm text-gray-600">Creating economic opportunities for farmers and local communities.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="relative bg-zinc-900 p-12 flex flex-col justify-center">
+                <div class="text-gold text-5xl mb-8 serif-italic opacity-50" style="color:#C5A02B">"</div>
+                <p class="text-2xl text-white font-light leading-relaxed italic mb-10">
+                    "Our vision is to build JPrime Group as India's most trusted diversified conglomerate, contributing to national growth and environmental preservation."
+                </p>
+                <div class="flex items-center gap-4">
+                    <div class="h-px w-12 bg-gold"></div>
+                    <span class="text-[10px] uppercase font-bold tracking-[0.4em] text-gray-400">Founder & Managing Director</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+      <!-- Solar -->
+
+    <section id="solar" class="py-32 px-6 bg-zinc-950 overflow-hidden relative">
+    <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-gold/5 rounded-full blur-[120px] -z-10"></div>
+
+    <div class="max-w-7xl mx-auto">
+        <div class="grid lg:grid-cols-12 gap-16 items-center">
+            
+            <div class="lg:col-span-5 relative group">
+                <div class="absolute -inset-2 border border-gold/20 rounded-[2rem] -z-10"></div>
+                
+                <div class="relative rounded-[1.8rem] overflow-hidden bg-black aspect-[9/16] shadow-2xl border border-white/10">
+                    <video 
+    autoplay 
+    muted 
+    loop 
+    playsinline 
+    preload="auto"
+    class="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition duration-700">
+    <source src="vid/solar.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+                    <div class="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black via-black/40 to-transparent">
+                        <div class="flex items-center gap-3 mb-2">
+                            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                            <span class="text-[10px] font-bold uppercase tracking-widest text-white">Live Operations</span>
+                        </div>
+                        <p class="text-xs text-gray-300 font-light italic">Showcasing: 200+ Acres Solar Farm Installation</p>
+                    </div>
+                </div>
+                
+                <div class="absolute -top-6 -right-6 bg-gold p-6 rounded-full shadow-xl transform rotate-12 group-hover:rotate-0 transition duration-500" style="background-color:#C5A02B">
+                    <span class="block text-black font-extrabold text-xl leading-none">100+</span>
+                    <span class="block text-black font-bold text-[8px] uppercase tracking-tighter">MW Capacity</span>
+                </div>
+            </div>
+
+            <div class="lg:col-span-7 space-y-10">
+                <div class="reveal">
+                    <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Renewable Energy Solutions</h4>
+                    <h3 class="text-4xl md:text-6xl font-extrabold tracking-tighter uppercase mb-6">
+                        Powering <span class="serif-italic gold-gradient italic">India's Mission.</span>
+                    </h3>
+                    <p class="text-gray-400 text-lg leading-relaxed mb-8">
+                        JPrime Solar Energy is dedicated to India’s clean energy transition. We manage large-scale solar power projects that secure long-term energy sustainability and provide lucrative investment opportunities for landowners and partners.
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-px bg-white/10 border border-white/10">
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Project Scale</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">200+ Acres</p>
+                        <p class="text-xs text-gray-500 mt-2">Active solar farm installations across Maharashtra.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Energy Security</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">ISO Compliant</p>
+                        <p class="text-xs text-gray-500 mt-2">Certified renewable energy development standards.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Farmer Support</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Solar Leasing</p>
+                        <p class="text-xs text-gray-500 mt-2">Creating stable income streams for rural landowners.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Vision 2028</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">500+ MW Goal</p>
+                        <p class="text-xs text-gray-500 mt-2">Expanding capacity to meet national net-zero targets.</p>
+                    </div>
+                </div>
+
+                <div class="pt-6">
+                    <h5 class="text-white font-bold uppercase tracking-widest text-[11px] mb-6">Key Core Services:</h5>
+                    <div class="grid grid-cols-2 gap-y-4">
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-sun text-gold" style="color:#C5A02B"></i> Solar Farm Development
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-hand-holding-usd text-gold" style="color:#C5A02B"></i> Investment Structuring
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-map-marker-alt text-gold" style="color:#C5A02B"></i> Land Procurement
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-leaf text-gold" style="color:#C5A02B"></i> Green Energy Consulting
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section id="hospitality" class="py-32 px-6 bg-black overflow-hidden relative">
+    <div class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-gold/5 rounded-full blur-[120px] -z-10"></div>
+
+    <div class="max-w-7xl mx-auto">
+        <div class="grid lg:grid-cols-12 gap-16 items-center">
+            
+            <div class="lg:col-span-7 space-y-10 order-2 lg:order-1">
+                <div class="reveal">
+                    <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Premium Hospitality Services</h4>
+                    <h3 class="text-4xl md:text-6xl font-extrabold tracking-tighter uppercase mb-6">
+                        Excellence in <span class="serif-italic gold-gradient italic">Guest Experiences.</span>
+                    </h3>
+                    <p class="text-gray-400 text-lg leading-relaxed mb-8">
+                        JPrime Holding & Hospitality develops and manages luxury ventures that redefine modern comfort. From boutique hotels to grand event conventions, we focus on sustainable practices and uncompromising service standards.
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-px bg-white/10 border border-white/10">
+                    <div class="p-8 bg-[#0A0A0A]">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Venture Type</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Boutique & Resorts</p>
+                        <p class="text-xs text-gray-500 mt-2">Curated luxury stays and high-end hospitality management.</p>
+                    </div>
+                    <div class="p-8 bg-[#0A0A0A]">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Event Spaces</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Conventions</p>
+                        <p class="text-xs text-gray-500 mt-2">Premium venues for corporate events and grand celebrations.</p>
+                    </div>
+                    <div class="p-8 bg-[#0A0A0A]">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Service Standard</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Modern Amenities</p>
+                        <p class="text-xs text-gray-500 mt-2">Integrating technology for seamless guest satisfaction.</p>
+                    </div>
+                    <div class="p-8 bg-[#0A0A0A]">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Eco-Tourism</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Sustainable Stays</p>
+                        <p class="text-xs text-gray-500 mt-2">Environmentally conscious hospitality development.</p>
+                    </div>
+                </div>
+
+                <div class="pt-6">
+                    <h5 class="text-white font-bold uppercase tracking-widest text-[11px] mb-6">Sector Focus:</h5>
+                    <div class="grid grid-cols-2 gap-y-4">
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-hotel text-gold" style="color:#C5A02B"></i> Boutique Hotels & Resorts
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-glass-cheers text-gold" style="color:#C5A02B"></i> Event Management
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-calendar-check text-gold" style="color:#C5A02B"></i> Convention Centers
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-utensils text-gold" style="color:#C5A02B"></i> Premium Hospitality
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg:col-span-5 relative group order-1 lg:order-2">
+                <div class="absolute -inset-2 border border-gold/20 rounded-[2rem] -z-10" style="border-color: rgba(197, 160, 43, 0.2)"></div>
+                
+                <div class="relative rounded-[1.8rem] overflow-hidden bg-zinc-900 aspect-[9/16] shadow-2xl border border-white/10">
+                     <video 
+    autoplay 
+    muted 
+    loop 
+    playsinline 
+    preload="auto"
+    class="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition duration-700">
+    <source src="vid/holding.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+                    <div class="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black via-black/60 to-transparent">
+                        <div class="flex items-center gap-3 mb-2">
+                            <span class="w-2 h-2 rounded-full bg-gold animate-pulse" style="background-color:#C5A02B"></span>
+                            <span class="text-[10px] font-bold uppercase tracking-widest text-white">Project Preview</span>
+                        </div>
+                        <p class="text-xs text-gray-300 font-light italic">JPrime Hospitality: Luxury Redefined</p>
+                    </div>
+                </div>
+                
+                <div class="absolute -bottom-6 -left-6 bg-gold p-6 rounded-full shadow-xl transform -rotate-12 group-hover:rotate-0 transition duration-500" style="background-color:#C5A02B">
+                    <i class="fas fa-concierge-bell text-black text-2xl"></i>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Agro -->
+<section id="agro" class="py-32 px-6 bg-zinc-950 overflow-hidden relative border-t border-white/5">
+    <div class="absolute top-0 left-0 w-[500px] h-[500px] bg-green-900/10 rounded-full blur-[120px] -z-10"></div>
+
+    <div class="max-w-7xl mx-auto">
+        <div class="grid lg:grid-cols-12 gap-16 items-center">
+            
+            <div class="lg:col-span-5 relative group">
+                <div class="absolute -inset-2 border border-green-900/20 rounded-[2rem] -z-10"></div>
+                
+                <div class="relative rounded-[1.8rem] overflow-hidden bg-zinc-900 aspect-[9/16] shadow-2xl border border-white/10">
+                    <video 
+    autoplay 
+    muted 
+    loop 
+    playsinline 
+    preload="auto"
+    class="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition duration-700">
+    <source src="vid/agro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+                    <div class="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black via-black/70 to-transparent">
+                        <div class="flex items-center gap-3 mb-2">
+                            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                            <span class="text-[10px] font-bold uppercase tracking-widest text-white">Live Harvest Operations</span>
+                        </div>
+                        <p class="text-xs text-gray-300 font-light italic">Global Agro Harvest: Sustainable Innovation</p>
+                    </div>
+                </div>
+                
+                <div class="absolute -top-6 -right-6 bg-gold p-6 rounded-full shadow-xl transform rotate-12 group-hover:rotate-0 transition duration-500" style="background-color:#C5A02B">
+                    <i class="fas fa-leaf text-black text-2xl"></i>
+                </div>
+            </div>
+
+            <div class="lg:col-span-7 space-y-10">
+                <div class="reveal">
+                    <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Sustainable Agriculture</h4>
+                    <h3 class="text-4xl md:text-6xl font-extrabold tracking-tighter uppercase mb-6">
+                        Cultivating <span class="serif-italic gold-gradient italic">Rural Growth.</span>
+                    </h3>
+                    <p class="text-gray-400 text-lg leading-relaxed mb-8">
+                        Global Agro Harvest is committed to sustainable farming and farmer empowerment. By integrating modern agro-business solutions, we address India's critical needs in food security while creating high-yield land development opportunities.
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-px bg-white/10 border border-white/10">
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Agro Focus</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Food Security</p>
+                        <p class="text-xs text-gray-500 mt-2">Innovative farming practices to ensure national sustainability.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Impact</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Farmer Support</p>
+                        <p class="text-xs text-gray-500 mt-2">Empowering communities through inclusive rural development.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Expertise</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Land Trading</p>
+                        <p class="text-xs text-gray-500 mt-2">Specialized agricultural land development and management.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Ecosystem</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Supply Chain</p>
+                        <p class="text-xs text-gray-500 mt-2">End-to-end management from soil to harvest distribution.</p>
+                    </div>
+                </div>
+
+                <div class="pt-6">
+                    <h5 class="text-white font-bold uppercase tracking-widest text-[11px] mb-6">Agro Business Services:</h5>
+                    <div class="grid grid-cols-2 gap-y-4">
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Sustainable Farming Practices
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Agro Product Development
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Supply Chain Management
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Rural Empowerment Programs
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- Holdings / Hospitality -->
+<section id="holdings" class="py-32 px-6 bg-zinc-950 overflow-hidden relative border-t border-white/5">
+    <div class="absolute top-0 left-0 w-[500px] h-[500px] bg-gold/5 rounded-full blur-[120px] -z-10" style="background-color: rgba(197, 160, 43, 0.08)"></div>
+
+    <div class="max-w-7xl mx-auto">
+        <div class="grid lg:grid-cols-12 gap-16 items-center">
+            
+            <div class="lg:col-span-7 space-y-10 order-2 lg:order-1">
+                <div class="reveal">
+                    <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Capital & Portfolio</h4>
+                    <h3 class="text-4xl md:text-6xl font-extrabold tracking-tighter uppercase mb-6 text-white leading-tight">
+                        Strategic <span class="serif-italic italic" style="color:#C5A02B">Holdings.</span>
+                    </h3>
+                    <p class="text-gray-400 text-lg leading-relaxed mb-8">
+                        JPrime Holdings manages a diversified asset portfolio across real estate, energy, agriculture, and hospitality. This section highlights how our group-level capital allocation and asset stewardship create resilient growth and long-term value.
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-px bg-white/10 border border-white/10">
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Portfolio Reach</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Pan-India</p>
+                        <p class="text-xs text-gray-500 mt-2">Asset exposure across high-growth sectors and geographies.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Capital Strategy</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Multi-Asset</p>
+                        <p class="text-xs text-gray-500 mt-2">Balanced investments in real estate, energy, agriculture, and hospitality.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Governance</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">ESG Focused</p>
+                        <p class="text-xs text-gray-500 mt-2">Sustainable value creation through disciplined asset management.</p>
+                    </div>
+                    <div class="p-8 bg-black">
+                        <h5 class="text-gold font-bold text-[10px] uppercase mb-2 tracking-widest" style="color:#C5A02B">Growth</h5>
+                        <p class="text-white font-bold text-xl tracking-tight">Strategic Scale</p>
+                        <p class="text-xs text-gray-500 mt-2">Building long-term value with a diversified capital approach.</p>
+                    </div>
+                </div>
+
+                <div class="pt-6">
+                    <h5 class="text-white font-bold uppercase tracking-widest text-[11px] mb-6">Holdings & Capital Services:</h5>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-y-4">
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Integrated Capital Allocation
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Risk Management & Asset Protection
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Cross-Sector Investment Insights
+                        </div>
+                        <div class="flex items-center gap-3 text-sm text-gray-400">
+                            <i class="fas fa-check text-gold" style="color:#C5A02B"></i> Operational Performance Oversight
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg:col-span-5 relative group order-1 lg:order-2">
+                <div class="absolute -inset-2 border border-gold/10 rounded-[2rem] -z-10"></div>
+                
+                <div class="relative rounded-[1.8rem] overflow-hidden bg-zinc-900 aspect-[9/16] shadow-2xl border border-white/10">
+                    <video 
+                        autoplay 
+                        muted 
+                        loop 
+                        playsinline 
+                        preload="auto"
+                        class="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition duration-1000">
+                        <source src="vid/hotel.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+
+                    <div class="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black via-black/90 to-transparent">
+                        <div class="flex items-center gap-3 mb-2">
+                            <span class="w-2 h-2 rounded-full bg-gold animate-pulse" style="background-color:#C5A02B"></span>
+                            <span class="text-[10px] font-bold uppercase tracking-widest text-white">Guest Experience Live</span>
+                        </div>
+                        <p class="text-xs text-gray-300 font-light italic">JPrime Hospitality: The Art of Excellence</p>
+                    </div>
+                </div>
+                
+                <div class="absolute -top-6 -left-6 bg-gold p-6 rounded-full shadow-xl transform -rotate-12 group-hover:rotate-0 transition duration-500" style="background-color:#C5A02B">
+                    <i class="fas fa-concierge-bell text-black text-2xl"></i>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section id="vision-mission" class="py-32 px-6 bg-white relative">
+    <div class="max-w-7xl mx-auto">
+        
+        <div class="relative bg-[#0A0A0A] rounded-3xl p-8 md:p-20 overflow-hidden mb-16 shadow-2xl">
+            <div class="absolute -top-24 -right-24 w-64 h-64 bg-gold/10 blur-[100px]" style="background-color: rgba(197, 160, 43, 0.1)"></div>
+            
+            <div class="relative z-10 max-w-3xl">
+                <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-6" style="color:#C5A02B">Strategic Roadmap</h4>
+                <h2 class="text-white text-4xl md:text-5xl font-extrabold tracking-tighter uppercase mb-8">
+                    Our <span class="serif-italic italic" style="color:#C5A02B">Vision</span>
+                </h2>
+                <p class="text-gray-300 text-xl md:text-2xl leading-relaxed font-light italic">
+                    "To build JPrime Group as India's most trusted diversified conglomerate, creating sustainable infrastructure, renewable energy solutions, and community-focused developments that contribute to national growth and environmental preservation."
+                </p>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            
+            <div class="lg:py-8">
+                <h3 class="text-3xl font-extrabold uppercase tracking-tighter text-black mb-4">
+                    Our <br/><span class="serif-italic italic" style="color:#C5A02B">Mission</span>
+                </h3>
+                <div class="w-16 h-1 bg-gold mb-6" style="background-color:#C5A02B"></div>
+                <p class="text-gray-500 text-sm leading-relaxed">
+                    A multi-sector approach to driving growth and delivering excellence across the Indian landscape.
+                </p>
+            </div>
+
+            <div class="space-y-6">
+                <div class="group p-8 border border-gray-100 rounded-2xl hover:border-gold/30 transition-all duration-500 bg-gray-50/50">
+                    <span class="text-gold font-bold text-xs uppercase tracking-widest block mb-4" style="color:#C5A02B">Deliver</span>
+                    <p class="text-black font-semibold text-sm leading-relaxed">
+                        World-class real estate projects that provide affordable, quality housing.
+                    </p>
+                </div>
+                <div class="group p-8 border border-gray-100 rounded-2xl hover:border-gold/30 transition-all duration-500 bg-gray-50/50">
+                    <span class="text-gold font-bold text-xs uppercase tracking-widest block mb-4" style="color:#C5A02B">Accelerate</span>
+                    <p class="text-black font-semibold text-sm leading-relaxed">
+                        India's renewable energy transition through reliable solar infrastructure.
+                    </p>
+                </div>
+            </div>
+
+            <div class="space-y-6">
+                <div class="group p-8 border border-gray-100 rounded-2xl hover:border-gold/30 transition-all duration-500 bg-gray-50/50">
+                    <span class="text-gold font-bold text-xs uppercase tracking-widest block mb-4" style="color:#C5A02B">Create & Promote</span>
+                    <p class="text-black font-semibold text-sm leading-relaxed">
+                        Long-term value for stakeholders while promoting sustainable business practices.
+                    </p>
+                </div>
+                <div class="group p-8 border border-gray-100 rounded-2xl hover:border-gold/30 transition-all duration-500 bg-gray-50/50">
+                    <span class="text-gold font-bold text-xs uppercase tracking-widest block mb-4" style="color:#C5A02B">Empower</span>
+                    <p class="text-black font-semibold text-sm leading-relaxed">
+                        Farmers, landowners, and local communities through inclusive growth opportunities.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section id="business-scope" class="py-32 px-6 bg-zinc-950 overflow-hidden relative border-t border-white/5">
+    <div class="absolute top-10 left-10 text-[15vw] font-black text-white/[0.02] select-none pointer-events-none uppercase">Ecosystem</div>
+
+    <div class="max-w-7xl mx-auto relative z-10">
+        <div class="grid lg:grid-cols-12 gap-16 items-center">
+            
+            <div class="lg:col-span-7 space-y-10">
+                <div class="reveal">
+                    <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Strategic Portfolio</h4>
+                    <h3 class="text-4xl md:text-6xl font-extrabold tracking-tighter uppercase mb-6 text-white leading-[0.95]">
+                        Unified Vision. <br/> <span class="serif-italic italic" style="color:#C5A02B">Exponential Scale.</span>
+                    </h3>
+                    <p class="text-gray-400 text-lg leading-relaxed max-w-2xl">
+                        JPrime Group is more than a conglomerate; it is a synchronized ecosystem designed for the new India. By vertically integrating **Real Estate, Renewable Energy, and Sustainable Agriculture**, we mitigate market volatility and capture growth at every stage of the value chain.
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div class="flex gap-5 group">
+                        <div class="flex-shrink-0 w-12 h-12 rounded-xl border border-gold/20 flex items-center justify-center text-gold group-hover:bg-gold group-hover:text-black transition-all duration-500" style="color:#C5A02B">
+                            <i class="fas fa-building"></i>
+                        </div>
+                        <div>
+                            <h5 class="text-white font-bold uppercase tracking-widest text-xs mb-2">Infrastructure</h5>
+                            <p class="text-gray-500 text-xs leading-relaxed">Developing premium residential and commercial landscapes that define urban living.</p>
+                        </div>
+                    </div>
+
+                    <div class="flex gap-5 group">
+                        <div class="flex-shrink-0 w-12 h-12 rounded-xl border border-gold/20 flex items-center justify-center text-gold group-hover:bg-gold group-hover:text-black transition-all duration-500" style="color:#C5A02B">
+                            <i class="fas fa-solar-panel"></i>
+                        </div>
+                        <div>
+                            <h5 class="text-white font-bold uppercase tracking-widest text-xs mb-2">Clean Energy</h5>
+                            <p class="text-gray-500 text-xs leading-relaxed">Leading India's solar transition with large-scale renewable infrastructure assets.</p>
+                        </div>
+                    </div>
+
+                    <div class="flex gap-5 group">
+                        <div class="flex-shrink-0 w-12 h-12 rounded-xl border border-gold/20 flex items-center justify-center text-gold group-hover:bg-gold group-hover:text-black transition-all duration-500" style="color:#C5A02B">
+                            <i class="fas fa-map-marked-alt"></i>
+                        </div>
+                        <div>
+                            <h5 class="text-white font-bold uppercase tracking-widest text-xs mb-2">Land Assets</h5>
+                            <p class="text-gray-500 text-xs leading-relaxed">Strategic land trading and acquisition in high-appreciation industrial corridors.</p>
+                        </div>
+                    </div>
+
+                    <div class="flex gap-5 group">
+                        <div class="flex-shrink-0 w-12 h-12 rounded-xl border border-gold/20 flex items-center justify-center text-gold group-hover:bg-gold group-hover:text-black transition-all duration-500" style="color:#C5A02B">
+                            <i class="fas fa-concierge-bell"></i>
+                        </div>
+                        <div>
+                            <h5 class="text-white font-bold uppercase tracking-widest text-xs mb-2">Hospitality</h5>
+                            <p class="text-gray-500 text-xs leading-relaxed">Curating 5-star luxury experiences that set global benchmarks in service.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="lg:col-span-5 relative">
+                <div class="bg-white/5 border border-white/10 p-10 md:p-12 rounded-[2rem] backdrop-blur-sm relative overflow-hidden">
+                    <div class="relative z-10">
+                        <h4 class="text-gold font-bold uppercase tracking-widest text-[11px] mb-8" style="color:#C5A02B">Why Invest Now?</h4>
+                        
+                        <div class="space-y-8">
+                            <div class="border-l-2 border-gold pl-6" style="border-color:#C5A02B">
+                                <p class="text-white font-bold text-lg mb-1">Asset-Backed Security</p>
+                                <p class="text-gray-500 text-xs italic">Tangible ownership in India's most valuable land and infrastructure.</p>
+                            </div>
+                            
+                            <div class="border-l-2 border-gold pl-6" style="border-color:#C5A02B">
+                                <p class="text-white font-bold text-lg mb-1">Multi-Sector Resilience</p>
+                                <p class="text-gray-500 text-xs italic">Diversified revenue streams from energy, rentals, and land appreciation.</p>
+                            </div>
+
+                            <div class="border-l-2 border-gold pl-6" style="border-color:#C5A02B">
+                                <p class="text-white font-bold text-lg mb-1">Sustainable Growth</p>
+                                <p class="text-gray-500 text-xs italic">Aligning capital with the ESG standards of the future global economy.</p>
+                            </div>
+                        </div>
+
+                        <div class="mt-12">
+                            <a href="#contact" class="inline-block w-full text-center bg-gold text-black font-extrabold py-5 px-8 rounded-xl text-xs uppercase tracking-[0.2em] hover:bg-white transition-all duration-500" style="background-color:#C5A02B">
+                                Download Investor Prospectus
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="absolute -bottom-10 -right-10 w-40 h-40 border border-gold/10 rounded-full"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section id="gallery" class="py-24 px-6 bg-[#050505] overflow-hidden relative">
+    <div class="max-w-6xl mx-auto">
+        <div class="mb-12 text-center">
+            <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Visual Portfolio</h4>
+            <h2 class="text-3xl md:text-4xl font-extrabold uppercase tracking-tight text-white mb-4">Shorts Wall</h2>
+            <p class="text-gray-400 text-base max-w-xl mx-auto">Browse YouTube Shorts embeds in a compact wall layout with a show more button after two rows.</p>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4">
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/JVGWMoEav1I?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/ysz5S6PUM-U?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/lp-EO5I60KA?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/ScMzIvxBSi4?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10 hidden gallery-more">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/NLzXHjOu6kE?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10 hidden gallery-more">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/fLexgOxsZu0?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10 hidden gallery-more">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/kXYiU_JCYtU?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="mx-auto max-w-[240px] rounded-[2rem] overflow-hidden bg-zinc-900 border border-white/10 hidden gallery-more">
+                <div class="relative w-full aspect-[9/16] bg-black">
+                    <iframe src="https://www.youtube-nocookie.com/embed/60ItHLz5WEA?rel=0&playsinline=1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-8 flex justify-center">
+            <button id="galleryExpand" type="button" class="inline-flex items-center justify-center rounded-full border border-white/10 bg-white/5 text-white px-8 py-3 text-sm font-semibold uppercase tracking-[0.25em] hover:bg-white/10 transition" data-expanded="false">Show More</button>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="py-32 px-6 bg-white overflow-hidden relative">
+    <div class="max-w-7xl mx-auto">
+        <div class="grid lg:grid-cols-12 gap-16 items-start">
+            
+            <div class="lg:col-span-5 space-y-12">
+                <div class="reveal">
+                    <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Get In Touch</h4>
+                    <h3 class="text-4xl md:text-6xl font-extrabold tracking-tighter uppercase text-black leading-tight mb-6">
+                        Start a <br/> <span class="serif-italic italic" style="color:#C5A02B">Conversation.</span>
+                    </h3>
+                    <p class="text-gray-500 text-lg">
+                        Whether you are looking for investment opportunities, premium hospitality services, or strategic partnerships, our executive team is ready to assist.
+                    </p>
+                </div>
+
+            <!--    <div class="space-y-8">-->
+            <!--        <div class="flex items-center gap-6 group">-->
+            <!--            <div class="w-12 h-12 rounded-full bg-zinc-50 flex items-center justify-center text-gold group-hover:bg-black group-hover:text-white transition-all duration-500" style="color:#C5A02B">-->
+            <!--                <i class="fas fa-map-marker-alt"></i>-->
+            <!--            </div>-->
+            <!--            <div>-->
+            <!--                <p class="text-[10px] font-bold uppercase tracking-widest text-gray-400">Headquarters</p>-->
+            <!--                <p class="text-black font-bold">Navi Mumbai, Maharashtra, India</p>-->
+            <!--            </div>-->
+            <!--        </div>-->
+
+            <!--        <div class="flex items-center gap-6 group">-->
+            <!--            <div class="w-12 h-12 rounded-full bg-zinc-50 flex items-center justify-center text-gold group-hover:bg-black group-hover:text-white transition-all duration-500" style="color:#C5A02B">-->
+            <!--                <i class="fas fa-envelope"></i>-->
+            <!--            </div>-->
+            <!--            <div>-->
+            <!--                <p class="text-[10px] font-bold uppercase tracking-widest text-gray-400">Direct Inquiry</p>-->
+            <!--                <p class="text-black font-bold">contact@jprimeholdings.com</p>-->
+            <!--            </div>-->
+            <!--        </div>-->
+
+            <!--        <div class="flex items-center gap-6 group">-->
+            <!--            <div class="w-12 h-12 rounded-full bg-zinc-50 flex items-center justify-center text-gold group-hover:bg-black group-hover:text-white transition-all duration-500" style="color:#C5A02B">-->
+            <!--                <i class="fas fa-phone"></i>-->
+            <!--            </div>-->
+            <!--            <div>-->
+            <!--                <p class="text-[10px] font-bold uppercase tracking-widest text-gray-400">Executive Liaison</p>-->
+            <!--                <p class="text-black font-bold">+91 [Your Number]</p>-->
+            <!--            </div>-->
+            <!--        </div>-->
+            <!--    </div>-->
+            <!--</div>-->
+
+            <div class="lg:col-span-7 bg-zinc-950 p-8 md:p-12 rounded-[2.5rem] shadow-2xl relative overflow-hidden">
+                <div class="absolute -top-24 -right-24 w-64 h-64 bg-gold/10 rounded-full blur-[80px]"></div>
+
+                <form class="relative z-10 space-y-6">
+                    <div class="grid md:grid-cols-2 gap-6">
+                        <div class="space-y-2">
+                            <label class="text-[10px] font-bold uppercase tracking-widest text-gray-400 ml-1">Full Name</label>
+                            <input type="text" placeholder="John Doe" class="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-white placeholder:text-zinc-600 focus:outline-none focus:border-gold/50 transition">
+                        </div>
+                        <div class="space-y-2">
+                            <label class="text-[10px] font-bold uppercase tracking-widest text-gray-400 ml-1">Email Address</label>
+                            <input type="email" placeholder="john@company.com" class="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-white placeholder:text-zinc-600 focus:outline-none focus:border-gold/50 transition">
+                        </div>
+                    </div>
+
+                    <div class="space-y-2">
+                        <label class="text-[10px] font-bold uppercase tracking-widest text-gray-400 ml-1">Nature of Inquiry</label>
+                        <select class="w-full bg-zinc-900 border border-white/10 rounded-xl px-5 py-4 text-white focus:outline-none focus:border-gold/50 transition appearance-none">
+                            <option>Investment Opportunities</option>
+                            <option>Real Estate & Land Trading</option>
+                            <option>Hospitality & 5-Star Assets</option>
+                            <option>Renewable Energy Projects</option>
+                            <option>General Inquiry</option>
+                        </select>
+                    </div>
+
+                    <div class="space-y-2">
+                        <label class="text-[10px] font-bold uppercase tracking-widest text-gray-400 ml-1">Message</label>
+                        <textarea rows="4" placeholder="How can we assist you today?" class="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-white placeholder:text-zinc-600 focus:outline-none focus:border-gold/50 transition resize-none"></textarea>
+                    </div>
+
+                    <button type="submit" class="w-full bg-gold text-black font-extrabold py-5 rounded-xl text-xs uppercase tracking-[0.3em] hover:bg-white transition-all duration-500" style="background-color:#C5A02B">
+                        Send Strategic Inquiry
+                    </button>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- <section id="insights" class="py-32 px-6 bg-zinc-50 overflow-hidden">
+    <div class="max-w-7xl mx-auto">
+        
+        <div class="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
+            <div class="reveal">
+                <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Thought Leadership</h4>
+                <h3 class="text-4xl md:text-5xl font-extrabold tracking-tighter uppercase text-black">
+                    JPrime <span class="serif-italic italic" style="color:#C5A02B">Insights</span>
+                </h3>
+            </div>
+            <a href="#" class="text-[10px] font-bold uppercase tracking-[0.2em] text-gray-400 hover:text-gold transition-colors duration-300 pb-2 border-b border-gray-200">
+                View All Articles
+            </a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+            
+            <article class="group cursor-pointer">
+                <div class="aspect-[16/10] overflow-hidden rounded-2xl mb-6 shadow-sm group-hover:shadow-xl transition-all duration-500">
+                    <img src="img/blog/real-estate-trends.jpg" alt="Real Estate" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
+                </div>
+                <div class="space-y-4">
+                    <div class="flex items-center gap-4 text-[9px] font-bold uppercase tracking-widest text-gold" style="color:#C5A02B">
+                        <span>Real Estate</span>
+                        <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+                        <span class="text-gray-400">Oct 24, 2025</span>
+                    </div>
+                    <h4 class="text-xl font-bold text-black leading-tight group-hover:text-gold transition-colors duration-300">
+                        The Future of Sustainable Urban Infrastructure in Maharashtra
+                    </h4>
+                    <p class="text-gray-500 text-sm leading-relaxed line-clamp-2">
+                        Exploring how green building certificates and smart-grid integration are redefining property values in emerging corridors.
+                    </p>
+                    <div class="pt-2 flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-black group-hover:gap-4 transition-all">
+                        Read Article <i class="fas fa-arrow-right text-gold"></i>
+                    </div>
+                </div>
+            </article>
+
+            <article class="group cursor-pointer">
+                <div class="aspect-[16/10] overflow-hidden rounded-2xl mb-6 shadow-sm group-hover:shadow-xl transition-all duration-500">
+                    <img src="img/blog/solar-energy.jpg" alt="Solar Energy" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
+                </div>
+                <div class="space-y-4">
+                    <div class="flex items-center gap-4 text-[9px] font-bold uppercase tracking-widest text-gold" style="color:#C5A02B">
+                        <span>Renewables</span>
+                        <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+                        <span class="text-gray-400">Sept 12, 2025</span>
+                    </div>
+                    <h4 class="text-xl font-bold text-black leading-tight group-hover:text-gold transition-colors duration-300">
+                        Solar Transitions: Powering the Next Decade of Industrial Growth
+                    </h4>
+                    <p class="text-gray-500 text-sm leading-relaxed line-clamp-2">
+                        How decentralised energy systems are providing a competitive edge for large-scale manufacturing units.
+                    </p>
+                    <div class="pt-2 flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-black group-hover:gap-4 transition-all">
+                        Read Article <i class="fas fa-arrow-right text-gold"></i>
+                    </div>
+                </div>
+            </article>
+
+            <article class="group cursor-pointer">
+                <div class="aspect-[16/10] overflow-hidden rounded-2xl mb-6 shadow-sm group-hover:shadow-xl transition-all duration-500">
+                    <img src="img/blog/investment.jpg" alt="Investment" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
+                </div>
+                <div class="space-y-4">
+                    <div class="flex items-center gap-4 text-[9px] font-bold uppercase tracking-widest text-gold" style="color:#C5A02B">
+                        <span>Economy</span>
+                        <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+                        <span class="text-gray-400">Aug 05, 2025</span>
+                    </div>
+                    <h4 class="text-xl font-bold text-black leading-tight group-hover:text-gold transition-colors duration-300">
+                        Strategic Land Acquisition: A Hedge Against Market Volatility
+                    </h4>
+                    <p class="text-gray-500 text-sm leading-relaxed line-clamp-2">
+                        Understanding the cyclical nature of land trading and why physical assets remain the ultimate investor safe haven.
+                    </p>
+                    <div class="pt-2 flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-black group-hover:gap-4 transition-all">
+                        Read Article <i class="fas fa-arrow-right text-gold"></i>
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </div>
+</section> -->
+
+<!-- <section id="executive-grid" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+        
+        <div class="mb-12 reveal">
+            <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-3" style="color:#C5A02B">Leadership Gallery</h4>
+            <h2 class="text-3xl md:text-4xl font-extrabold tracking-tighter uppercase text-black">
+                Mr. Avinash <span class="serif-italic italic" style="color:#C5A02B">Jagdale</span>
+            </h2>
+        </div>
+
+        <div id="autoGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+            </div>
+    </div>
+</section>
+
+<script>
+    // CONFIGURATION
+    const totalPhotos = 15; // Change this to the number of photos in your folder
+    const folder = "/vid/img"; // Your folder path
+    const gridContainer = document.getElementById('autoGrid');
+
+    for (let i = 1; i <= totalPhotos; i++) {
+        // Create the wrapper
+        const div = document.createElement('div');
+        div.className = "aspect-[3/4] overflow-hidden rounded-lg bg-gray-100 border border-gray-100 group cursor-pointer shadow-sm hover:shadow-xl transition-all duration-500";
+        
+        // Create the image
+        const img = document.createElement('img');
+        img.src = `${folder}${i}.jpg`; // Expects 1.jpg, 2.jpg, etc.
+        img.alt = "Executive Portrait";
+        img.className = "w-full h-full object-cover transition duration-700 group-hover:scale-110";
+        
+        // Click to open in your existing Lightbox
+        div.onclick = () => openCertificate(img.src, 'Executive Gallery');
+
+        div.appendChild(img);
+        gridContainer.appendChild(div);
+    }
+</script> -->
+
+
+    <!-- instagram -->
+
+<!-- <section id="instagram-feed" class="py-32 px-6 bg-[#050505]">
+    <div class="max-w-7xl mx-auto">
+        
+        <div class="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
+            <div class="reveal">
+                <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Digital Presence</h4>
+                <h3 class="text-4xl md:text-5xl font-extrabold tracking-tighter uppercase text-white">
+                    The Executive <span class="serif-italic gold-gradient">Journal</span>
+                </h3>
+            </div>
+            <a href="https://www.instagram.com/avinashjagdale_/" target="_blank" class="text-white text-[10px] font-bold uppercase tracking-widest border-b border-gold pb-2 hover:text-gold transition-all" style="border-color:#C5A02B">
+                Follow @avinashjagdale_
+            </a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 justify-items-center">
+            
+            <div class="w-full max-w-[450px] bg-zinc-900/40 p-1 rounded-xl border border-white/5 overflow-hidden">
+                <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DUdV68YDOX_/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0-1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+                    <div style="padding:16px;">
+                        <a href="https://www.instagram.com/reel/DUdV68YDOX_/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+                            <div style=" display: flex; flex-direction: row; align-items: center;">
+                                <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+                                <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+                                    <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+                                    <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+                                </div>
+                            </div>
+                            <div style="padding: 19% 0;"></div>
+                            <div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+                                <svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg>
+                            </div>
+                            <div style="padding-top: 8px;">
+                                <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div>
+                            </div>
+                            <div style="padding: 12.5% 0;"></div>
+                        </a>
+                        <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+                            <a href="https://www.instagram.com/reel/DUdV68YDOX_/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Avinash Jagdale (@avinashjagdale_)</a>
+                        </p>
+                    </div>
+                </blockquote>
+            </div>
+
+            <div class="w-full max-w-[450px] flex items-center justify-center border border-white/5 rounded-xl bg-zinc-900/10">
+                <span class="text-zinc-700 text-[10px] uppercase tracking-widest">More coming soon</span>
+            </div>
+
+            <div class="w-full max-w-[450px] flex items-center justify-center border border-white/5 rounded-xl bg-zinc-900/10">
+                <span class="text-zinc-700 text-[10px] uppercase tracking-widest">More coming soon</span>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<script async src="//www.instagram.com/embed.js"></script> -->
+
+<!-- Gallery
+
+<section id="certifications" class="py-32 px-6 bg-white relative">
+    <div class="max-w-7xl mx-auto">
+        <div class="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
+            <div class="reveal">
+                <h4 class="text-gold font-bold uppercase tracking-[0.6em] text-[10px] mb-4" style="color:#C5A02B">Authentication</h4>
+                <h3 class="text-4xl md:text-5xl font-extrabold tracking-tighter uppercase text-black">
+                    Official <span class="serif-italic italic" style="color:#C5A02B">Certifications</span>
+                </h3>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-16">
+            <div class="group cursor-pointer" onclick="openCertificate('vid/Holdings/dipt.jpeg', 'DIPP Recognition')">
+                <div class="relative aspect-[4/3] overflow-hidden bg-gray-50 rounded-xl border border-gold/10 mb-6 shadow-[0_15px_40px_rgba(0,0,0,0.04)] transition-all duration-500 group-hover:shadow-[0_20px_50px_rgba(197,160,43,0.15)] group-hover:-translate-y-2">
+                    <img src="vid/Holdings/dipt.jpeg" class="w-full h-full object-contain p-8">
+                    <div class="absolute inset-0 bg-white/40 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-center justify-center backdrop-blur-[1px]">
+                        <div class="w-10 h-10 rounded-full bg-white shadow-lg flex items-center justify-center">
+                            <i class="fas fa-expand text-gold text-xs" style="color:#C5A02B"></i>
+                        </div>
+                    </div>
+                </div>
+                <h5 class="text-black font-bold text-center text-sm uppercase tracking-widest group-hover:text-gold transition-colors duration-300">DIPP Recognition</h5>
+            </div>
+
+            </div>
+    </div>
+</section>
+
+<div id="certModal" class="fixed inset-0 z-[9999] hidden bg-black/95 flex items-center justify-center p-4 md:p-10 transition-all duration-500">
+    <button onclick="closeCertificate()" class="absolute top-8 right-8 text-white text-4xl font-light hover:text-gold transition">&times;</button>
+    
+    <div class="max-w-5xl w-full flex flex-col items-center">
+        <img id="modalImg" src="" class="max-h-[80vh] w-auto shadow-2xl rounded-sm">
+        <p id="modalTitle" class="text-white mt-6 uppercase tracking-[0.4em] text-xs font-bold" style="color:#C5A02B"></p>
+    </div>
+</div> -->
+
+
+
+
+<!-- footer -->
+  
+
+    <footer class="py-24 px-6 border-t border-white/5 bg-black">
+        <div class="max-w-7xl mx-auto grid md:grid-cols-4 gap-16 mb-20">
+            <div class="md:col-span-2">
+                <h2 class="text-2xl font-extrabold uppercase tracking-widest mb-6">JPRIME <span class="text-gold">GROUP.</span></h2>
+                <p class="text-[10px] text-gray-600 uppercase tracking-[0.5em] leading-loose">
+                    Creating Sustainable Futures. <br>
+                    Leading in Real Estate & Renewable Energy.
+                </p>
+            </div>
+            <div>
+                <h4 class="text-[10px] font-bold text-gold uppercase tracking-widest mb-8" style="color:#C5A02B">Connect With Us</h4>
+                <div class="flex flex-wrap gap-4 text-xl mb-4">
+                    <a href="https://www.instagram.com/avinashjagdale_/" target="_blank" class="hover:text-gold transition"><i class="fab fa-instagram"></i></a>
+                    <a href="https://medium.com/@avinashjagdale" target="_blank" class="hover:text-gold transition"><i class="fab fa-medium"></i></a>
+                    <a href="https://www.linkedin.com/in/md-avinash-jagdale-/" target="_blank" class="hover:text-gold transition"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=61563372205123" target="_blank" class="hover:text-gold transition"><i class="fab fa-facebook"></i></a>
+                    <a href="https://dravinashjagdale.blogspot.com/" target="_blank" class="hover:text-gold transition"><i class="fas fa-blog"></i></a>
+                </div>
+                <div class="text-[10px] text-gray-400 uppercase tracking-[0.3em] leading-relaxed">
+                    <p>Instagram: @avinashjagdale_</p>
+                    <p>Medium: medium.com/@avinashjagdale</p>
+                </div>
+            </div>
+            <div>
+                <h4 class="text-[10px] font-bold text-gold uppercase tracking-widest mb-8" style="color:#C5A02B">HQ Locations</h4>
+                <p class="text-[10px] text-gray-400 uppercase tracking-widest leading-loose">One Platinum, Sector 15, CBD Belapur, Navi Mumbai</p>
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto pt-12 border-t border-white/5 text-center">
+            <p class="text-[8px] text-gray-800 uppercase tracking-[0.6em]">© 2026 AVINASH JAGDALE | MANAGING DIRECTOR PORTFOLIO</p>
+        </div>
+    </footer>
+
+    <script>
+        (function () {
+            const expandButton = document.getElementById('galleryExpand');
+            const hiddenCards = document.querySelectorAll('.gallery-more');
+            if (!expandButton || !hiddenCards.length) return;
+            expandButton.addEventListener('click', () => {
+                const expanded = expandButton.dataset.expanded === 'true';
+                hiddenCards.forEach(card => card.classList.toggle('hidden', expanded));
+                expandButton.textContent = expanded ? 'Show More' : 'Show Less';
+                expandButton.dataset.expanded = expanded ? 'false' : 'true';
+            });
+        })();
+    </script>
+</body>
+<!-- javascript -->
+
+
+
+</html>
